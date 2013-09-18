@@ -42,5 +42,3 @@ To start using Upload Extension, activate the extension from Orchestra Platform 
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 	THE SOFTWARE.
-
-Credit to [WardrobeCMS](http://wardrobecms.com) for the inspiration.
