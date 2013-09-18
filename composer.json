@@ -1,6 +1,6 @@
 {
 	"name": "orchestra/up",
-	"description": "Upload Extension for Orchestra Platform 2",
+	"description": "[WIP] Upload Extension for Orchestra Platform 2",
 	"keywords": ["orchestra-platform", "orchestral", "laravel"],
 	"license": "MIT",
 	"authors": [
@@ -18,6 +18,11 @@
 		"illuminate/container": "4.0.*",
 		"orchestra/support": "2.0.*",
 		"satooshi/php-coveralls": "~0.6"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0-dev"
+		}
 	},
 	"minimum-stability": "dev"
 }
